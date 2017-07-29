@@ -1,0 +1,18 @@
+{
+  "name": "basegeneral",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "JSONStream": "^1.3.0",
+    "event-stream": "^3.3.4",
+    "firebase-admin": "^4.1.0",
+    "kefir": "^3.7.1",
+    "readline": "^1.3.0"
+  }
+}
